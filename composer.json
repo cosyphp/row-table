@@ -1,14 +1,14 @@
 {
-    "name": "ichynul/row-table",
+    "name": "cosyphp/row-table",
     "description": "laravel-admin extension row-table",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/ichynul/row-table",
+    "homepage": "https://github.com/cosyphp/row-table",
     "license": "MIT",
     "authors": [
         {
-            "name": "ichynul",
-            "email": "ichynul@outlook.com"
+            "name": "cosyphp",
+            "email": "cosyphp@gmail.com"
         }
     ],
     "require": {
